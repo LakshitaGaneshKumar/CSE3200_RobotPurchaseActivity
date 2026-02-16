@@ -131,8 +131,6 @@
                 android:textSize="30sp"
                 app:drawableEndCompat="@drawable/energy_counter"/>
 
-            </TextView>
-
         </LinearLayout>
 
     </LinearLayout>
